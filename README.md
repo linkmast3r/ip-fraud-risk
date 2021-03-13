@@ -15,7 +15,7 @@ chmod +x ip_fraud.sh         (only first use)
 
 ./ip_fraud.sh
 
-2. File with IP:
+2. File:
 
 chmod +x ip_fraud.sh         (only first use)
 
