@@ -7,7 +7,7 @@ nombre_archivo = sys.argv[1]
 try:
     handler = open(nombre_archivo)
 except FileNotFoundError:
-    print('Archivo no encontrado:', nombre_archivo)
+    print('File not fuond:', nombre_archivo)
     exit()
 
 if __name__ == "__main__":
