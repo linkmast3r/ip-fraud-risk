@@ -22,5 +22,5 @@ chmod +x ip_fraud.sh         (only first use)
 ```bash
 chmod +x ip_fraud.sh         (only first use)
 
-python3 main.py <ip_files>
+python3 main.py <ip_file>
 ```
