@@ -1,13 +1,13 @@
 # ip-fraud-risk
 Check your ip's fraud risk
 
-### ---- Requirements ----
+### Requirements
 
 grep,
 python3,
 curl
 
-### ---- Usage ----
+### Usage 
 
 - Sigle IP: 
 ```bash
