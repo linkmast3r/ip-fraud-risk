@@ -1,4 +1,4 @@
-# ip fraud risk
+# ip fraud risk checker
 Check your ip's fraud risk
 
 ## Para que sirve¿?
